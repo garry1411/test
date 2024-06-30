@@ -5,7 +5,7 @@ $expectedIV = 'ff01f4ae6bb7917b';
 
 // Check post data
 if (!isset($_POST['data'])) {
-    echo "GhostCry Panel Access";
+    echo "Ha-Ha L00000l";
     exit;
 }
 
